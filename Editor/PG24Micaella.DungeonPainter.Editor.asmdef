@@ -1,0 +1,18 @@
+{
+    "name": "PG24Micaella.DungeonPainter.Editor",
+    "rootNamespace": "PG24Micaella.DungeonPainter.Editor",
+    "references": [
+        "GUID:cf7124cae1cbac544b54d09cb151d223"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
